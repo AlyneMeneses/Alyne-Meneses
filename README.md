@@ -80,7 +80,7 @@ Olá, sou **Alyne Meneses**, tenho 20 anos e sou formada em **Gestão da Tecnolo
 
 <h3>🌍 Me encontre aqui:</h3>
 <ul>
-  <li><a href="alyne-de-paula-b01175279">LinkedIn</a></li>
+  <li><a href="www.linkedin.com/in/alyne-de-paula-b01175279">LinkedIn</a></li>
   <li><a href="https://seu-portfolio.com">Portfólio</a></li>
 </ul>
 
